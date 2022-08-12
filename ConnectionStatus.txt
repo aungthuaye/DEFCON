@@ -1,0 +1,81 @@
+ConnectivityStatus		Localtime: 		Utc:
+Host name is .local.
+	1) Address:
+	2) Address:
+ShardAddress:
+ProtocolVersion: 5
+ServerBuildVersion:
+SkuVersion:
+Current Master Config url: http://master/live/masterconfig.txt
+Time left to sync: 220 secs
+Current Configuration:
+BugSentry: https://gen4.reports.tools.gosbugsentry
+WebstoreURL: https://www.com//store
+TelemetryServerName: https://river.data.com
+TelemetryPinServerName: https://pin-river.data.com
+TelemetryServiceName: mac/-2015-retail
+TelemetryEnv: prod
+TelemetryServerPort: 443
+SpotlightURL: https://pin-em.data.com/em/
+SpotlightCdnContentUrl: http://com/content.ts4/master/spotlight/
+
+Kill Switches:
+0 SERVICE_FLAG_LOGIN
+0 SERVICE_FLAG_EXCHANGE_ALONE
+0 SERVICE_FLAG_SOCIAL_ALONE
+0 SERVICE_FLAG_MTX_ALONE
+0 SERVICE_FLAG_TELEMETRY
+1 SERVICE_FLAG_FOK_CASDEMO
+0 SERVICE_FLAG_SPOTLIGHT
+0 SERVICE_FLAG_BUGSENTRY
+1 SERVICE_FLAG_BUGSENTRY_EXCEPTIONS
+1 SERVICE_FLAG_RECOMMENDATION_ENGINE_ALONE
+0 SERVICE_FLAG_DISABLE_PHOTO_TEXTURES
+1 SERVICE_FLAG_FAK
+0 SERVICE_FLAG_PREORDER
+1 SERVICE_FLAG_PACKBROWSER_WIN
+1 SERVICE_FLAG_PACKBROWSER_MAC
+0 SERVICE_FLAG_TTER
+0 SERVICE_FLAG_WEBSTORE_WIN
+0 SERVICE_FLAG_WEBSTORE_MAC
+0 SERVICE_FLAG_TELEMETRY_PIN
+1 SERVICE_FLAG_CAMPFIRE_PHONE_NUMBER_PROMOTION
+1 SERVICE_FLAG_ENABLE_CUSTOM_SIM_TEXTURES
+URL:http://.com/content.ts4/config/live/killswitch/killswitch_normal15.txt
+
+Connectivity Checklist:
+1 kCasConnected
+1 kZoneConnected
+0 kLiveEditEnabled
+0 kOnlineServicesPermanentlyUnavailable
+0 kOnlineServicesTemporarilyUnavailable
+0 kOnlineServicesUserDisabled
+1 kOnlineServicesAutoReconnectEnabled
+1 kOriginEnabled
+0 kDisableOriginArg
+0 kIsUserUnderAge
+0 kConnectFailure
+0 kConnectingToOnlineServices
+0 kConnectedToOnlineServices
+0 kJustGotOnlineServices
+1 kJustLostOnlineServices
+1 kInternetConnected
+1 kOriginAppConnected
+1 kCDNWebServerConnected
+1 kOriginOnlineMode
+0 kGotOriginEntitlements
+0 kLoginServerConnected
+1 kSimameLaunch
+0 kSimsuthorized
+0 kUepServerConnected
+0 kExchangeServerConnected
+0 kSocialServerConnected
+0 kMtxServerConnected
+0 kUserGalleryBanned
+1 kSetUserDataForConnections
+1 kReadyToPlayGame
+
+Client State:kConnected
+Connection State:STATE_CONNECTED
+
+

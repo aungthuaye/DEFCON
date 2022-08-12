@@ -1,0 +1,18 @@
+# Basic .gitignore file for new Java projects
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+.idea/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
